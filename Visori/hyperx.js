@@ -1,5 +1,6 @@
 
 var vdom = require('virtual-dom')
+var hyperx = require('hyperx')
 var hx = hyperx(vdom.h)
 
 var title = 'world'
